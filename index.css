@@ -1,0 +1,33 @@
+body{
+    background-color: #6f7186;
+}
+header{
+    text-align: center;
+    background-color: rgb(177, 223, 70);
+}
+main{
+    background-image: url(grainhighresolpic.jpg)
+}
+a{
+    padding: 20px;
+}
+li:hover{
+    background-color: green;
+}
+    a:link{
+        color: rgb(43, 226, 150);
+    }
+a:hover{
+    color: rgb(42, 165, 42);
+    font-size: 1.2em;
+}
+a:active{
+    color: purple;
+    font-size: 1.1em;
+}
+li:not(:hover){
+    background-color: beige;
+}
+footer{
+    background-color: rgb(177, 223, 70);
+}

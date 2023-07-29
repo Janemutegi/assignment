@@ -1,0 +1,40 @@
+h2{
+font-family: "Roboto", "Open Sans";
+
+}
+
+h2{
+    border-style: solid;
+    border-width: 3px;
+    border-color: gold;
+    border-radius: 10px;
+}
+body{
+    background-color: slategray;
+}
+p2{
+    font-family: "Span San", "Courier new";
+    font-weight: bold;
+}
+p3{
+font-weight: bold;
+
+}
+p7{
+    font-weight: bold;
+
+}
+p5{
+font-weight: bold;
+
+}
+h2{
+border: solid;
+}
+p1{
+border:;
+}
+p7{
+font-family: 'Times New Roman', Times, serif;
+
+}

@@ -1,0 +1,15 @@
+@font-face {
+    font-family:"Robota";
+    src: url(font/Roboto-Medium.ttf);
+}
+
+h1{
+    text-align: center;
+
+
+}
+p3{
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+}

@@ -1,0 +1,17 @@
+@font-face{
+src: url(fonts/Roboto-Medium.ttf);
+font-family: Roboto;
+}
+h1{
+    text-align: center;
+}
+body{
+background-color: slategrey;
+}
+#p1{
+    color: black;
+}
+#p2{
+    background-color: tomato;
+}
+
