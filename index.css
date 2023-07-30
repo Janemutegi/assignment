@@ -1,5 +1,5 @@
 body{
-    background-color: #6f7186;
+    background-color: #53588d;
 }
 header{
     text-align: center;
@@ -15,14 +15,15 @@ li:hover{
     background-color: green;
 }
     a:link{
-        color: rgb(43, 226, 150);
+        color: rgb(35, 155, 107);
+        font-size: x-large;
     }
 a:hover{
     color: rgb(42, 165, 42);
-    font-size: 1.2em;
+    font-size: 1.5em;
 }
 a:active{
-    color: purple;
+    color: rgb(231, 22, 231);
     font-size: 1.1em;
 }
 li:not(:hover){
@@ -30,4 +31,19 @@ li:not(:hover){
 }
 footer{
     background-color: rgb(177, 223, 70);
+}
+p3{
+    font-size: x-large;
+}
+p4{
+    font-size: larger;
+}
+p5{
+    font-size: large;
+}
+p6{
+    font-size: large;
+}
+p7{
+    font-size: large;
 }
